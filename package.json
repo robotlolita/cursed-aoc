@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "python3 build.py",
+    "type-check": "tsc -p ."
+  },
+  "dependencies": {
+    "typescript": "^4.5.2"
+  }
+}
